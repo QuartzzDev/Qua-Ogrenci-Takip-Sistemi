@@ -27,7 +27,7 @@ Tr :
 Not : notlar.txt ve ogrenciler.txt adlı 2 tane dosya oluşturmanız lazım .
 
 
-
+-----------------------------
 
 
 En : 
