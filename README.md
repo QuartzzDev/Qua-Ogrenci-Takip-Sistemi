@@ -1,2 +1,4 @@
-# Qua-Ogrenci-Takip-Sistemi
+# Qua Öğrenci Takip Sistemi
+
 Öğrencilerin verilerini kaydetmek için kullanılabilecek bir proje 
+
