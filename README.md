@@ -3,6 +3,7 @@
 Tr : 
 
 • Öğrencilerin verilerini kaydetmek için kullanılabilecek bir proje 
+
 ![image](https://github.com/QuartzzDev/Qua-Ogrenci-Takip-Sistemi/assets/69876083/2f43986d-7869-4649-81fe-e03e5bc5f852)
 
 
@@ -15,10 +16,12 @@ Tr :
 
 
 • Kayıtlı olan öğrencilere not verebileceğiniz bir bölüm .
+
 ![image](https://github.com/QuartzzDev/Qua-Ogrenci-Takip-Sistemi/assets/69876083/5c287e3f-845b-48f4-a6fb-2a365c4db840)
 
 
 • Not verilebilen dersler halihazırda bunlardır , proje içerisinden ekleme yapılabilir.
+
 ![image](https://github.com/QuartzzDev/Qua-Ogrenci-Takip-Sistemi/assets/69876083/42358ceb-b332-4a7f-b0fc-a9a73efad1ca)
 
 Not : notlar.txt ve ogrenciler.txt adlı 2 tane dosya oluşturmanız lazım .
@@ -30,6 +33,7 @@ Not : notlar.txt ve ogrenciler.txt adlı 2 tane dosya oluşturmanız lazım .
 En : 
 
 • A project that can be used to store students' data.
+
 ![image](https://github.com/QuartzzDev/Qua-Ogrenci-Takip-Sistemi/assets/69876083/2f43986d-7869-4649-81fe-e03e5bc5f852)
 
 • You can add students to the system by providing their first name, last name, and student number using the "Add" button.
@@ -41,10 +45,12 @@ En :
 
 
 • A section where you can give grades to the registered students .
+
 ![image](https://github.com/QuartzzDev/Qua-Ogrenci-Takip-Sistemi/assets/69876083/5c287e3f-845b-48f4-a6fb-2a365c4db840)
 
 
 • The currently available courses for which grades can be given are as follows; you can add more courses from within the project.
+
 ![image](https://github.com/QuartzzDev/Qua-Ogrenci-Takip-Sistemi/assets/69876083/42358ceb-b332-4a7f-b0fc-a9a73efad1ca)
 
 
